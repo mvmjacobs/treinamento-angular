@@ -37,6 +37,7 @@ npm install -g typescript
   - Enum
   - Herança
   - Objetos
+- Transpiler *"nativo"*
 
 ## Atividade
 ...
