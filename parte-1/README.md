@@ -40,4 +40,14 @@ npm install -g typescript
 - Transpiler *"nativo"*
 
 ## Atividade
-...
+- Escrever uma classe representando um contato
+- A classe deve conter os seguintes atributos:
+	- Nome completo: string
+	- Email: string
+	- Data de Nascimento: date
+	- Sexo: enum
+	- Favorito: boolean
+- Implemente um metodo que calcule a idade do contato
+- Em um arquivo externo importe a classe
+- Crie um objeto dessa
+- Exiba o objeto no console
