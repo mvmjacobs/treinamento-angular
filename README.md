@@ -7,7 +7,14 @@ Conteúdo aplicado no treinamento de Angular.
 - Typescript
 
 ### [Parte 2](https://github.com/mvmjacobs/treinamento-angular/tree/master/parte-2)
-...
+- Modules
+- Components
+- Data binding
+- Directives
+  - ngFor
+  - ngIf
+  - class
+  - ngContent
 
 ### [Parte 3](https://github.com/mvmjacobs/treinamento-angular/tree/master/parte-3)
 ...
