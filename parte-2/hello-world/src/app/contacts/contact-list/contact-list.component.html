@@ -1,0 +1,14 @@
+<ng-content select=".class1"></ng-content>
+
+<input type="text" [(ngModel)]="campoTexto"/>
+
+<p>{{ campoTexto }}</p>
+<button type="button" (click)="metodo()">clicar</button>
+
+<ul *ngIf="varBool">
+	<li *ngFor="let item of contactList">
+		{{ item.name + ' | ' + item.email }}
+	</li>
+</ul>
+
+<ng-content select="p.class1"></ng-content>

@@ -2,13 +2,15 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { ContactsModule } from './contacts/contacts.module';
 
 @NgModule({
 	declarations: [
 		AppComponent
 	],
 	imports: [
-		BrowserModule
+		BrowserModule,
+		ContactsModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
