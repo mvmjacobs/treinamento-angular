@@ -14,4 +14,8 @@ Conteúdo da segunda parte do treinamento de Angular.
   - ngContent
 
 ## Atividades
-...
+- Todo List
+	- Criar um modulo de tarefas serparado do AppModule
+	- Criar um componente para listar as tarefas e um para cadastrar/editar
+	- Deve ser possível remover a tarefa
+	- Deve ser possível concluir uma tarefa
