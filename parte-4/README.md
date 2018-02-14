@@ -6,6 +6,5 @@ Conteúdo da quarta parte do treinamento de Angular.
 - Injeção de Dependencia
 
 ## Atividades
-- Criar um componente que consome um serviço para listar usuarios do Github
-	- Exibir o nome, foto e descrição
+- Criar um componente que consome um serviço que consome uma api
  
