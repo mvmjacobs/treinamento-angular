@@ -33,4 +33,11 @@ Conteúdo aplicado no treinamento de Angular.
 	- HttpInterceptor
 
 ### [Parte 5](https://github.com/mvmjacobs/treinamento-angular/tree/master/parte-5)
-...
+- Angular Forms
+	- FormGroup
+	- FormControl
+	- Validators
+- Material
+	- Components
+- FlexLayout
+	- The worst documentation ever made
