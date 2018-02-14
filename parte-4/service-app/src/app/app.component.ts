@@ -1,14 +1,12 @@
-import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 
 @Component({
 	selector: 'app-root',
 	templateUrl: './app.component.html',
 	styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit {
+export class AppComponent implements OnInit, OnDestroy {
 
-	@ViewChild('username') username: ElementRef;
-	users: any[] = [];
 	title = 'app';
 
 	constructor() { }
@@ -16,10 +14,6 @@ export class AppComponent implements OnInit {
 	ngOnInit(): void {
 	}
 
-	addUser(username: string): void {
-		if (!username)
-			return;
-		this.users.push({ name: username, description: `Descrição do usuário ${username}` });
-		this.username.nativeElement.value = '';
+	ngOnDestroy(): void {
 	}
 }
