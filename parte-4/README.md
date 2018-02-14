@@ -4,6 +4,8 @@ Conteúdo da quarta parte do treinamento de Angular.
 ## Serviços
 - Introdução
 - Injeção de Dependencia
+- HttpInterceptor
+
 
 ## Atividades
 - Criar um componente que consome um serviço que consome uma api
