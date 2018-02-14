@@ -27,7 +27,10 @@ Conteúdo aplicado no treinamento de Angular.
 		- CanActivate
 	
 ### [Parte 4](https://github.com/mvmjacobs/treinamento-angular/tree/master/parte-4)
-...
+- Serviços
+	- Introdução
+	- Injeção de Dependencia
+	- HttpInterceptor
 
 ### [Parte 5](https://github.com/mvmjacobs/treinamento-angular/tree/master/parte-5)
 ...
