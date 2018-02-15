@@ -2,9 +2,7 @@
 Conteúdo da quinta parte do treinamento de Angular.
 
 ## Forms
-- FormGroup
-- FormControl
-- Validators
+- https://loiane.training
 
 ## Material
 - Introdução
@@ -14,4 +12,4 @@ Conteúdo da quinta parte do treinamento de Angular.
 - The worst documentation ever made
 
 ## Atividades
-...
+- Refazer a agenda de contatos utilizando Angular, Material e FlexLayout
