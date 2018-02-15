@@ -1,13 +1,13 @@
-<div class="example-container">
-	<mat-form-field>
+<div fxLayoutWrap fxLayout="row" fxLayout.lt-md="column" fxLayoutAlign="center center" [style.min-height.vh]="value">
+	<mat-form-field fxFlex="80">
 		<input matInput placeholder="Input">
 	</mat-form-field>
 
-	<mat-form-field>
+	<mat-form-field fxFlex="15">
 		<textarea matInput placeholder="Textarea"></textarea>
 	</mat-form-field>
 
-	<mat-form-field>
+	<mat-form-field fxFlex="30" fxHide.xs>
 		<mat-select placeholder="Select">
 			<mat-option value="option">Option</mat-option>
 		</mat-select>
